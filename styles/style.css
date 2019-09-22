@@ -1,0 +1,50 @@
+body{
+    color: 
+    font-family: helvetica, Arial, sans-serif;
+    font-size: 16px
+    line-height: 1.5cm,
+    margin: 0;
+    padding: 0;
+
+}
+/* End Body */
+
+/* Start Debug */
+.bg-blue {
+    background-cplor:
+    blue
+}
+.bg-red {
+    background-color:
+    red
+}
+/* End Debuq */
+
+h1{
+    font-family: 'segoe UI', Tahoma, geneva, verdana, sans-1;
+    color: #05567c;
+}
+
+a { 
+    color: hsl(256, 92%, 25%);
+    font-weight: bold;
+    font-family: arial, helvetica,sans-serif;
+    
+}
+h1.judul {
+
+    color: rgb(0, 195, 255);
+    font-size: 60px;
+    margin: 10px;
+}
+h1.judul {
+    color 
+}
+
+a {
+    color: rgb(47, 0, 255);
+    font-weight: bold;
+    font-family: arial, helvetica, sans-serif;
+    margin: 50px 30px ;
+}
+
